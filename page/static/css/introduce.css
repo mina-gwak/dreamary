@@ -8,7 +8,7 @@ label {
 }
 
 #logo {
-  disppay: flex;
+  display: flex;
 }
 
 #navbar {
